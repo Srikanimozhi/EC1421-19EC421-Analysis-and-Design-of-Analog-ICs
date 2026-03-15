@@ -42,7 +42,6 @@ For v2 and v3  keeping the other values constant.
 ## OUTPUT GRAPH:
 ### DAC:
 <img width="1918" height="565" alt="image" src="https://github.com/user-attachments/assets/dba7e995-47ac-46e8-bb17-5068e0a4bc98" />
-<img width="1080" height="1245" alt="image" src="https://github.com/user-attachments/assets/36d112c4-7137-4e9e-833d-691fcddf32ca" />
 
 
 ## RESULT:
