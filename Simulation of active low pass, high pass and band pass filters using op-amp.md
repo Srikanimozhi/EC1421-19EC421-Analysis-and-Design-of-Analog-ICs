@@ -31,7 +31,7 @@ LT-Spice
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
 
-![alt text](<WhatsApp Image 2026-03-14 at 5.57.40 PM.jpeg>)
+<WhatsApp Image 2026-03-14 at 5.57.40 PM.jpeg>
 
 
 
