@@ -45,6 +45,7 @@ LT-Spice
 <img width="1910" height="638" alt="image" src="https://github.com/user-attachments/assets/c9da5520-f563-4a86-b3e7-193acadc69f5" />
 
 
+<img width="1600" height="1002" alt="image" src="https://github.com/user-attachments/assets/78166016-6b8d-4beb-be9d-3fdd91bd4778" />
 
 
 
@@ -54,6 +55,7 @@ LT-Spice
 <img width="1918" height="612" alt="image" src="https://github.com/user-attachments/assets/c4b76cda-0044-4fb7-84d7-5435af930ffc" />
 
 
+<img width="1439" height="871" alt="image" src="https://github.com/user-attachments/assets/7d0c1b6e-d65e-428f-8041-335c279f4aec" />
 
 
 
@@ -61,6 +63,7 @@ LT-Spice
 ### BANDPASS FILTER:
 <img width="1918" height="651" alt="image" src="https://github.com/user-attachments/assets/74a30be7-bc99-4cf8-a4f7-b9cfac00de3b" />
 
+<img width="1445" height="966" alt="image" src="https://github.com/user-attachments/assets/e9f67081-ad8f-4ecd-91e2-384b2df2f176" />
 
 
 
