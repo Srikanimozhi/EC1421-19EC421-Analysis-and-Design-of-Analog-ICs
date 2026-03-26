@@ -21,7 +21,7 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
-<img width="1599" height="769" alt="image" src="https://github.com/user-attachments/assets/9c83b1ea-d05b-4ba0-98a7-2dc5595774ee" />
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/620e2070-ab74-4ad9-b600-707da99e4eec" />
 
 
 ## OUTPUT GRAPH:
