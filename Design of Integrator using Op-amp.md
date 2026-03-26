@@ -60,14 +60,14 @@ are plotted in a graph sheet.
 
 ## TABULATION:
 
-
-<img width="1407" height="1599" alt="image" src="https://github.com/user-attachments/assets/652f1eb0-1cb4-4edc-9334-9c2f4be4d982" />
-
+<img width="1366" height="702" alt="image" src="https://github.com/user-attachments/assets/51280d76-9a72-44b7-8866-e78ec716e55f" />
 
 ## GRAPH:
 
 
-<img width="1366" height="702" alt="image" src="https://github.com/user-attachments/assets/51280d76-9a72-44b7-8866-e78ec716e55f" />
+
+<img width="1407" height="1599" alt="image" src="https://github.com/user-attachments/assets/652f1eb0-1cb4-4edc-9334-9c2f4be4d982" />
+
 
 
 ## RESULT:
